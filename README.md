@@ -1,0 +1,2 @@
+# GestaoDeConcursos
+Sistema de gestão de concursos e adjudicação e um sistema online para submeter documentos para concursos para um trabalho especifico, o sistema será definido por prazos de entrega para cada curso. Este sistema tem como objetivo de implementar melhorias entre os concorrentes para um devido trabalho com os administradores do concurso em casos concernentes a submeter candidaturas, e cadastrar concursos.
